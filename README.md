@@ -1,29 +1,27 @@
-# Rest Countries UI
+# Rest_Countries_Ui
 
-A simple interface i made for practising with React, Redux and data fetching
+Proyecto frontend para practicar conceptos de desarrollo web con React.
 
-## Description
+## 🛠️ Stack
 
-The application comprises a search engine and two filters that will send requests to the [REST countries](https://restcountries.com/) API in real-time as you type in the search engine or adjust the filters, and it will display the corresponding results.
+- React (functional components + hooks)
+- JavaScript / TypeScript
+- CSS / Redux
+- Vite / Create React App
 
-![Screenshot](./public/assets/screencapture.png)
+## 🎯 Objetivos de Aprendizaje
 
-## Getting Started
+- Componentes funcionales y props
+- Estado local y global (useState, useEffect)
+- Manejo de errores y data fetching
+- Routing si aplica
 
-Just clone the repository and run the commands:
+## ▶️ Cómo Ejecutar
 
+```bash
+npm install && npm start
 ```
-npm install
-```
 
-and
+---
 
-```
-npm run dev
-```
-
-## Author
-
-[Yaco Cappelletti Arias](https://www.linkedin.com/in/yaco-cappelletti-arias/)
-
-
+> Proyecto educativo frontend | **Yaco Cappelletti** 🇦🇷→🇪🇸
