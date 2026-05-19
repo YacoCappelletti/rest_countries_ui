@@ -1,27 +1,22 @@
 # Rest Countries UI
 
-Frontend project for practicing React development concepts.
+A React-based interface for browsing world countries with filtering, searching, and detailed views.
 
-## 🛠️ Stack
+## ✨ Features
+- Display country cards with flag, population, capital, and region
+- Filter by geographic region (Europe, Americas, Africa, etc.)
+- Search by country name or capital city
+- Detailed country view with neighbors, translations, and demographics
+- Responsive layout across screen sizes
 
-- React (functional components + hooks)
-- JavaScript / TypeScript
-- CSS / Redux
-- Vite / Create React App
+## 🛠️ Tech Stack
+React, JavaScript/TypeScript, CSS3, REST API (restcountries.com), Vite.
 
-## 🎯 Learning Objectives
-
-- Functional components and props
-- State management (useState, useEffect, useContext)
-- Error handling and data fetching
-- Routing if applicable
-
-## ▶️ Run
-
+## ▶️ Running it locally
 ```bash
-npm install && npm start
+npm install && npm run dev
 ```
 
 ---
 
-> Frontend project by Yaco Cappelletti
+> Project by Yaco Cappelletti
